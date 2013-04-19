@@ -1,0 +1,16 @@
+{
+    "name": "ircbot",
+    "description": "Simple irc bot in node",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "commander": ">= 1.0.5",
+        "superagent": ">= 0.14.1",
+        "irc": ">= 0.3.4",
+        "tomatoes": ">= 0.0.1",
+        "nodejs-tvrage": ">= 0.3.0",
+        "myweather2": ">= 0.0.3",
+        "wunderbar": ">= 0.0.1",
+        "btc-e": ">= 0.0.1"
+    }
+}
