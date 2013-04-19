@@ -1,15 +1,15 @@
 var config = {
     // connection settings
-    nickname:   'eve-dev',
+    nickname:   'eve',
     host:       'irc.underrun.org',
     port:       6697,
     ssl:        true,
     selfSig:    true,
     certExp:    true,
-    channels:   ['#underrun'],
+    channels:   ['#underrun', '#mathematics'],
 
     // other stuff
-    debug:      true,
+    debug:      false,
 }
 
 module.exports.val = config;

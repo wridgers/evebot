@@ -1,5 +1,3 @@
-@echo off
+#!/bin/sh
 
 node eve.js -c ./config/config.dev.js
-
-PAUSE
